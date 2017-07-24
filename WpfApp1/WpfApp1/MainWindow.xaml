@@ -14,6 +14,6 @@
             
         </Grid.ColumnDefinitions>
         <Button Height="20"
-                Grid.Column="1">Click me</Button>
+                Grid.Column="2">Click me</Button>
     </Grid>
 </Window>
